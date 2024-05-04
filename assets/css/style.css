@@ -1,0 +1,101 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.header-details {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin: 33px 0px;
+}
+.header-details .header-details-links ul {
+  display: flex;
+  gap: 56px;
+}
+.header-details .header-details-links ul li {
+  list-style-type: none;
+}
+.header-details .header-details-links ul li a {
+  text-decoration: none;
+  color: #2D2F30;
+}
+
+#hero-section .hero-details .product-main-top {
+  background-color: #E7F6FF;
+  width: 434px;
+  height: 40px;
+  border-radius: 26.5px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  margin-top: 90px;
+}
+#hero-section .hero-details .product-main-top .hero-btn {
+  color: #fff;
+  width: 86px;
+  border-radius: 26.5px;
+  height: 28px;
+  background-color: #094B72;
+  text-align: center;
+  border: none;
+}
+#hero-section .hero-details .product-main-top .hero-text {
+  color: #193E6C;
+}
+#hero-section .hero-details .product-main-bottom {
+  display: flex;
+}
+#hero-section .hero-details .product-main-bottom .product-left h1 {
+  color: #094B72;
+  width: 891px;
+  font-size: 90px;
+  font-weight: bold;
+  font-family: "Playfair Display", serif;
+  margin: 25px 0px;
+}
+#hero-section .hero-details .product-main-bottom .product-left .text-p {
+  width: 590px;
+  font-size: 24px;
+  color: rgb(81, 73, 73);
+  font-family: "Plus Jakarta Sans", sans-serif;
+  margin-bottom: 45px;
+}
+#hero-section .hero-details .product-main-bottom .product-left button {
+  background-color: #094B72;
+  width: 190px;
+  height: 80px;
+  border-radius: 8px;
+  color: #fff;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  margin-bottom: 100px;
+}
+#hero-section .hero-details .product-main-bottom .product-left p {
+  color: rgb(152, 152, 152);
+  width: 540px;
+  font-size: 22px;
+  font-family: "Playfair Display", serif;
+  margin-bottom: 28px;
+}
+#hero-section .hero-details .product-main-bottom .imgs {
+  width: 238px;
+  height: 88px;
+}
+#hero-section .hero-details .product-main-bottom .imgs .imgs-top {
+  display: flex;
+  gap: 60px;
+  margin-bottom: 30px;
+}
+#hero-section .hero-details .product-main-bottom .imgs .imgs-bottom {
+  display: flex;
+  gap: 25px;
+}
+#hero-section .hero-details .product-main-bottom .product-right .product-right-img {
+  width: 549px;
+}/*# sourceMappingURL=style.css.map */
